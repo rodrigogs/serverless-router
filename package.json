@@ -1,6 +1,6 @@
 {
-  "name": "@everestate/serverless-router",
-  "version": "0.6.0",
+  "name": "@rodrigogs/serverless-router",
+  "version": "0.0.0",
   "description": "Serverless, minimalist, pluggable, universal router.",
   "keywords": [
     "serverless",
@@ -20,10 +20,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:everestate/serverless-router.git"
+    "url": "git@github.com:rodrigogs/serverless-router.git"
   },
   "bugs": {
-    "url": "https://github.com/everestate/serverless-router/issues"
+    "url": "https://github.com/rodrigogs/serverless-router/issues"
   },
   "author": "Everestate",
   "license": "MIT",
