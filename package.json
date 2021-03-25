@@ -1,6 +1,6 @@
 {
-  "name": "@everestate/serverless-router",
-  "version": "0.6.0",
+  "name": "@rodrigogs/serverless-router",
+  "version": "0.0.1",
   "description": "Serverless, minimalist, pluggable, universal router.",
   "keywords": [
     "serverless",
@@ -20,21 +20,24 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:everestate/serverless-router.git"
+    "url": "git@github.com:rodrigogs/serverless-router.git"
   },
   "bugs": {
-    "url": "https://github.com/everestate/serverless-router/issues"
+    "url": "https://github.com/rodrigogs/serverless-router/issues"
   },
-  "author": "Everestate",
+  "authors": [
+    "https://github.com/everestate",
+    "https://github.com/rodrigogs"
+  ],
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "devDependencies": {
-    "eslint": "^6.2.2",
-    "eslint-config-airbnb-base": "^14.0.0",
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jest": "^22.15.2",
-    "jest": "^24.9.0"
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.3.2",
+    "jest": "^26.6.3"
   }
 }

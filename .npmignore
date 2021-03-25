@@ -1,0 +1,10 @@
+/LICENSE
+/.eslintignore
+/.idea/
+/.github/
+/.eslintrc.js
+/.gitignore
+/README.md
+/docs/
+/jest.config.js
+/node_modules/

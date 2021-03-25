@@ -5,7 +5,7 @@ Let's implement the simple plugin to route numbers as either even or odd ones.
 1. We need to declare a new class which is extended from "`BasePlugin`":
 
     ```javascript
-    const BasePlugin = require('@everestate/serverless-router/BasePlugin');
+    const BasePlugin = require('@rodrigogs/serverless-router/BasePlugin');
 
     class EvenOdd extends BasePlugin {
     }
@@ -105,5 +105,5 @@ There are few more plugin examples you might be interesting in:
   * [`lib/__tests__/__fixtures__/WeekdayPlugin.js`](../lib/__tests__/__fixtures__/WeekdayPlugin.js)
 
 Also some real plugin packages:
-  * [serverless-router-aws](https://github.com/everestate/serverless-router-aws)
-  * [serverless-router-dynamics](https://github.com/everestate/serverless-router-dynamics)
+  * [serverless-router-aws](https://github.com/rodrigogs/serverless-router-aws)
+  * [serverless-router-dynamics](https://github.com/rodrigogs/serverless-router-dynamics)

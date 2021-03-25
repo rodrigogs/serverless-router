@@ -14,9 +14,6 @@ npm-debug.log*
 # Coverage directory used by tools like istanbul
 coverage
 
-# Ignore lock file from npm@5, we use yarn and yarn.lock instead
-package-lock.json
-
 # Dependency directories
 node_modules
 

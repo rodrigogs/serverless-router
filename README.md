@@ -1,26 +1,26 @@
-# @everestate/serverless-router [![npm version](https://badge.fury.io/js/%40everestate%2Fserverless-router.svg)](https://www.npmjs.com/package/@everestate/serverless-router)
+# @rodrigogs/serverless-router [![npm version](https://badge.fury.io/js/%40rodrigogs%2Fserverless-router.svg)](https://www.npmjs.com/package/@rodrigogs/serverless-router)
 
 > Serverless, minimalist, pluggable, universal router.
 
 ## Installation
 
 ```
-npm install @everestate/serverless-router --save
+npm install @rodrigogs/serverless-router --save
 ```
 
 ## Usage
 
 To use `serverless-router` you will need at least one of its plugins.
 
-* [serverless-router-aws](https://github.com/everestate/serverless-router-aws)
-* [serverless-router-dynamics](https://github.com/everestate/serverless-router-dynamics)
-* [serverless-router-event](https://github.com/everestate/serverless-router-event)
+* [serverless-router-aws](https://github.com/rodrigogs/serverless-router-aws)
+* [serverless-router-dynamics](https://github.com/rodrigogs/serverless-router-dynamics)
+* [serverless-router-event](https://github.com/rodrigogs/serverless-router-event)
 * and others
 
 
 ```javascript
-const Router = require('@everestate/serverless-router');
-const { HTTP } = require('@everestate/serverless-router-aws');
+const Router = require('@rodrigogs/serverless-router');
+const { HTTP } = require('@rodrigogs/serverless-router-aws');
 
 cosnt userService = require('../services/userService');
 
